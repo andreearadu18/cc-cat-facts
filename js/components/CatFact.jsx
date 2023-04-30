@@ -18,7 +18,6 @@ const CatFact = () => {
         fetchFact();
     }, []);
 
-
     const handleSave = async () => {
         try {
             const res = await axios.post('/api/records', {
