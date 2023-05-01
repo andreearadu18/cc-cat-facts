@@ -7,7 +7,7 @@
 <h3>Introducere</h3>  
 
 <p>
-Aplicația web dezvoltată în cadrul cursului de Cloud Computing se bazează pe tehnologiile Node.js pentru partea de back-end și React pentru front-end. Pentru stocarea datelor, s-a optat pentru o bază de date non-relațională MongoDB, iar deployment-ul se realizează prin intermediul serviciilor oferite de AWS.  
+Aplicația web dezvoltată în cadrul cursului de Cloud Computing se bazează pe tehnologiile Node.js pentru partea de back-end și React pentru front-end. Pentru stocarea datelor, s-a optat pentru o bază de date non-relațională MongoDB, iar deployment-ul se realizează prin intermediul serviciilor oferite de Vercel.  
 </p>
 
 <h3>Descriere aplicatie</h3>  
