@@ -26,7 +26,9 @@ Pentru a vizualiza informatiile salvate, utilizatorul va naviga la ruta "../save
 <h3>Descriere API</h3>
 
 <p>
-Catfact.ninja este un API care oferă acces la un set de date legate de pisici. În special, acesta furnizează fapte amuzante despre pisici, denumite "cat facts". Acest API este disponibil public și poate fi utilizat de dezvoltatorii de aplicații pentru a obține aceste fapte amuzante și a le integra în aplicațiile lor. API-ul este disponibil prin intermediul unor request-uri HTTP la anumite endpoint-uri, iar răspunsurile sunt returnate în format JSON
+Catfact.ninja este un API care oferă acces la un set de date legate de pisici. În special, acesta furnizează informatii amuzante despre pisici, denumite "cat facts". 
+Acest API este disponibil public și poate fi utilizat de dezvoltatorii de aplicații pentru a obține aceste curiozitati amuzante și a le integra în aplicațiile lor. 
+API-ul este disponibil prin intermediul unor request-uri HTTP la anumite endpoint-uri, iar răspunsurile sunt returnate în format JSON.
 </p>
 
 <h3>Flux de date</h3>
@@ -51,6 +53,5 @@ Nu este necesară o autentificare sau autorizare pentru a utiliza acest API.
 </p>
 
 <h3>Capturi de ecran</h3>
-
-![Screenshot 2023-05-01 120252.png](media%2FScreenshot%202023-05-01%20120252.png)
+![Screenshot 2023-05-01 184413.png](media%2FScreenshot%202023-05-01%20184413.png)
 ![Screenshot 2023-05-01 120343.png](media%2FScreenshot%202023-05-01%20120343.png)

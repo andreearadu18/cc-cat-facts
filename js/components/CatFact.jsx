@@ -56,7 +56,7 @@ const CatFact = () => {
         <section className="bg-white dark:bg-gray-900">
             <div className="container px-6 py-10 mx-auto">
                 <div className="text-center">
-                    <h1 className="text-3xl font-bold text-gray-800 dark:text-white mb-8">Random cats fact:</h1>
+                    <h1 className="text-3xl font-bold text-gray-800 dark:text-white mb-8">Random cat fact:</h1>
                 </div>
                 <div className="max-w-3xl mx-auto">
                     <div className="border border-gray-300 bg-white dark:bg-gray-800 rounded-lg shadow-md p-6 mb-8">
