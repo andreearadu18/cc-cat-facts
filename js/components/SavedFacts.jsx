@@ -35,6 +35,9 @@ export default function SavedFacts() {
 
     return (
         <section className="bg-white dark:bg-gray-900">
+            <div className="text-center">
+                <h1 className="text-3xl font-bold text-gray-800 dark:text-white mb-8">Saved facts</h1>
+            </div>
             <div className="container px-6 py-10 mx-auto">
                 <div className="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-12 sm:grid-cols-2 xl:grid-cols-4 lg:grid-cols-3">
                     {records.map(record => (
@@ -48,7 +51,7 @@ export default function SavedFacts() {
                                 <button type="button"
                                         id={record._id}
                                         onClick={deleteRecord}
-                                        className="focus:outline-none text-white bg-red-700 hover:bg-red-800 focus:ring-4 focus:ring-red-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-red-600 dark:hover:bg-red-700 dark:focus:ring-red-900">Delete
+                                        className="focus:outline-none text-white bg-green-400 hover:bg-green-600 focus:ring-4 focus:ring-green-600 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-green-600 dark:hover:bg-green-300 dark:focus:bg-green-400">Delete
                                 </button>
                             </div>
                         </div>
