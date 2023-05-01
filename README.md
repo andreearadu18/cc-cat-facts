@@ -1,8 +1,8 @@
-<h4>Nume: Radu Andreea Maria  
-Grupa: 1121  
+<h4>Nume: Radu Andreea Maria</h4>
+<h4>Grupa: 1121 </h4> 
 
-Link video:  
-Link publicare:</h4>
+<h4>Link video: </h4>
+<h4>Link publicare:</h4>
 
 <h3>Introducere</h3>  
 
