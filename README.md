@@ -53,5 +53,6 @@ Nu este necesară o autentificare sau autorizare pentru a utiliza acest API.
 </p>
 
 <h3>Capturi de ecran</h3>
+
 ![Screenshot 2023-05-01 184413.png](media%2FScreenshot%202023-05-01%20184413.png)  
 ![Screenshot 2023-05-01 120343.png](media%2FScreenshot%202023-05-01%20120343.png)
