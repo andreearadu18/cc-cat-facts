@@ -2,7 +2,7 @@
 <h4>Grupa: 1121 </h4> 
 
 <h4>Link video: https://youtu.be/pcuXDf-9-fM </h4>
-<h4>Link publicare: cc-cat-facts.vercel.app/ </h4>
+<h4>Link publicare: https://cc-cat-facts.vercel.app/ </h4>
 
 <h3>Introducere</h3>  
 
