@@ -1,7 +1,7 @@
 <h4>Nume: Radu Andreea Maria</h4>
 <h4>Grupa: 1121 </h4> 
 
-<h4>Link video: </h4>
+<h4>Link video: https://youtu.be/pcuXDf-9-fM </h4>
 <h4>Link publicare: https://cc-cat-facts-f1dhg1yxf-andreearadu18.vercel.app/ </h4>
 
 <h3>Introducere</h3>  
